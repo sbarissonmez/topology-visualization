@@ -1,2 +1,3 @@
 next_sources/**/* linguist-vendored
 *.css linguist-vendored
+*.html linguist-detectable=false
